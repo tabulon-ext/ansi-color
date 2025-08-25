@@ -1,3 +1,5 @@
+> **⚠️ Archived 2025-08-25. No longer maintained.**
+
 Color is a simple bash shell script that makes it easy to color and format echo'd text.
 
 It does this by converting combinations of readable arguments (bold, red, green, underline, etc.) into an [ANSI escape sequence](http://en.wikipedia.org/wiki/ANSI_escape_code) that your terminal emulator or console understands.
